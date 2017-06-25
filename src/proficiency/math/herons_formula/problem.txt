@@ -1,0 +1,5 @@
+Create a program that calculates the area of a triangle given the three sides as arguments.
+The output should be some form of decimal pointed value:
+1 should be 1.0
+50 should be 50.0
+1.5 would still be 1.5

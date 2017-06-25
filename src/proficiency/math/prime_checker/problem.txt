@@ -1,0 +1,4 @@
+Create a program that takes in a number.
+It will output whether the number is a prime, true or false.
+
+The output can be True or true, False or false.

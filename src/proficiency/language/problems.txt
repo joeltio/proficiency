@@ -1,0 +1,21 @@
+All the problems will be listed in this text file.
+
+1. String manipulation
+    .1 Hello world without newline
+    .2 Palindrome detection
+    .3 Join strings
+    .4 Remove all occurrences of string from another string
+
+2. Array manipulation
+    .1 Array concatenation (front and back), length
+    .2 Remove duplicate elements from array
+
+3. Others (in rank of approximately easiest first)
+    .1 Assertion
+    .2 Random number generation
+    .3 Determine SHA-256 hash
+    .4 Date manipulation
+    .5 Combinations and permutations
+    .6 Importing other files
+    .7 Generating an executable
+    .8 Keyboard input

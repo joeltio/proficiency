@@ -1,0 +1,4 @@
+Create a binomial expander of (a+b)^n where n is varied.
+n will be passed as the first argument
+Results should be in the format:
+(coefficient)a^(a exponent)b^(b exponent) + (coefficient)...
